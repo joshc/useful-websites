@@ -5,7 +5,7 @@ A delightful compilation of (useful) websites.
 | :------ | :---------- | :--- |
 | [Anchor](https://anchor.fm) | Create, distribute, and monetize your podcast for free. | `audio` `free` `podcast` |
 | [Groups.io](https://groups.io) | A modern platform for online communities. | `free` `premium` `community`<br>`group` `email` |
-| [FreeTaxUSA(https://www.freetaxusa.com) | File taxes for free. | `free` `finance` `premium` `tax` |
+| [FreeTaxUSA](https://www.freetaxusa.com) | File taxes for free. | `free` `finance` `premium` `tax` |
 
 
 # Organizer's Notes
