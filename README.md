@@ -7,6 +7,7 @@ A delightful compilation of (useful) websites.
 | [Groups.io](https://groups.io) | A modern platform for online communities. | `free` `premium` `community`<br>`group` `email` |
 | [FreeTaxUSA](https://www.freetaxusa.com) | File taxes for free. | `free` `finance` `premium` `tax` |
 | [Cozy](https://cozy.co) | Property management for landlords. | `free` `real estate` |
+| [Mint](https://www.mint.com) | Financial account aggregator and budget tracker. | `free` `finance` `bank` `invest` |
 
 
 # Organizer's Notes
