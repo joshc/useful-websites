@@ -14,8 +14,6 @@ A delightful compilation of (useful) websites.
 Currently, there is no form of organization. The descriptions should be an **accurate** and **efficient** indicator of the site's purpose for searching purposes. Last updated `2019-11-16`.
 
 ## Adding a Website
-1. Fork this repo.
-2. Commit and push with your changes.
+1. Create an issue
    1. Make sure that formatting is consistent with existing table. If it isn't, your pull request will be rejected.
    2. Make sure that your description is **accurate** and **efficient**. If I was looking to do something where your proposed website would be useful, the description would contain certain key terms that I would search first. A concise clarified version of the website's own tagline is usually successful.
-3. Make a pull request in this repo.
